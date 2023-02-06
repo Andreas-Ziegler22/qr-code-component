@@ -83,6 +83,7 @@ I'm pretending to do another card but using react and it generate QR-Code
 ### Useful resources
 
 - [w3schools](https://www.w3schools.com/) - When I don't know something I can always have a light here.
+- [Box-Shadow CSS Generator](https://html-css-js.com/css/generator/box-shadow/) - No need to reinvent the wheel here.
 
 ## Author
 
