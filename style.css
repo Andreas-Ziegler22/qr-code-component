@@ -33,6 +33,7 @@ body {
   border-radius: 20px;
   text-align: center;
   margin: 0 1em;
+  box-shadow: 1px 3px 25px 5px rgba(0, 0, 0, 0.26);
 }
 .card img {
   width: 100%;
