@@ -13,7 +13,7 @@
 body {
   background-color: var(--lightGray-color);
   font-family: "Outfit", sans-serif;
-  font: 15px;
+  font: 1rem;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
